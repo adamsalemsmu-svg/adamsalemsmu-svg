@@ -52,14 +52,15 @@ Currently at **Lightbeam Health Solutions**, I transform clinical and operatio
 ## 🎓 Education & Certifications
 
 - **M.S. Business Analytics** – SMU Cox School of Business
-- **B.Sc. in Business Administration** – [Your Undergraduate Institution]
-- **Relevant Certifications** – Azure Data Engineer Associate, Snowflake SnowPro Core (examples; adjust to reflect actual certifications)
+- **B.Sc. in Business Administration** – SMU Cox School of Business
+- **Relevant Certifications** – Tableau Certified
 
 ---
 
 ## 🏆 Awards & Achievements
 
-- **2nd Place – iHeartRadio Data Science Competition** – Developed predictive models and interactive dashboards analysing listener data, earning second place among numerous teams.
+- **2nd Place – iHeartRadio Data Science Competition** 
+– Developed predictive models and interactive dashboards analysing listener data, earning second place among numerous teams.
 - Recognised for cross‑functional collaboration and leadership on data projects at both Lightbeam Health Solutions and Elevate Bank.
 
 ---
