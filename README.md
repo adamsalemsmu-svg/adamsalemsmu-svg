@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I’m Adam Salem
 
-<!--
-**adamsalemsmu-svg/adamsalemsmu-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior BI Developer / Data Scinetist**
 
-Here are some ideas to get you started:
+📍 Based in Dallas–Fort Worth, TX — open to remote and global opportunities  
+🎓 M.S. Business Analytics – SMU Cox School of Business  
+💼 5+ years of experience in Business Intelligence, Data Engineering, and AI-driven automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 Tech Stack
+- **Languages:** Python, SQL (T-SQL, SnowSQL)
+- **Data Engineering:** Airflow, Databricks, Snowflake, Azure Data Factory
+- **Visualization:** Power BI, Tableau
+- **AI & Automation:** LangChain, Rasa, Botpress, Zapier
+
+---
+
+## 📌 Featured Projects
+- **T-SQL ➔ Snowflake SQL Converter:** Python app converting SQL Server code to Snowflake.
+- **AI‑Powered BI Chatbot:** Rasa + LangChain chatbot integrated with SQL databases.
+- **Healthcare Analytics Dashboards:** Tableau and Power BI dashboards reducing reporting time by 40%.
+
+---
+
+## 📩 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/adamsalemsmu)
+- [Email](mailto:adamsalemsmu@gmail.com)
