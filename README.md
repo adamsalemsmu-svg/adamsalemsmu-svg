@@ -1,29 +1,73 @@
-# 👋 Hi, I’m Adam Salem
+# 👋 Hi, I'm **Adam Salem**
 
-**Senior BI Developer / Data Scientist**
+_Senior BI Developer / Data Scientist_
 
-## 🤓 About Me
-I'm a Senior Business Intelligence Developer and Data Scientist based in Dallas–Fort Worth, TX with over 5 years of experience. I specialize in data engineering, analytics and AI‑driven automation and hold an M.S. in Business Analytics from the SMU Cox School of Business. I'm passionate about building scalable data solutions and uncovering insights to drive business growth.
+---
 
-## 🔧 Tech Stack
-- **Languages:** Python, SQL (T‑SQL, SnowSQL), R
-- **Data Engineering:** Airflow, Databricks, Snowflake, Azure Data Factory, dbt, ETL/ELT pipelines
-- **Visualization:** Power BI, Tableau
-- **Automation & AI:** LangChain, Rasa, Botpress, Zapier, Azure OpenAI
+## 💡 About Me
 
-## 💼 Professional Experience
-- **Senior BI Developer/Data Engineer – Company Name (Dates):** Briefly describe your role and the impact you made.
-- **Previous Position – Company Name (Dates):** Summarize your responsibilities and achievements.
+I'm a Senior Business Intelligence Developer and Data Scientist based in Dallas–Fort Worth, TX with over 5 years of experience. I specialize in data engineering, analytics and AI‑driven automation and hold an M.S. in Business Analytics from the SMU Cox School of Business. I'm passionate about building scalable data solutions and uncovering insights to drive business growth.
+
+---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-EF4238?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-7CD6E6?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/-ADF-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FE3000?style=for-the-badge&logo=dbt&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-59C3C3?style=for-the-badge)
+![Rasa](https://img.shields.io/badge/-Rasa-50247F?style=for-the-badge&logo=rasa&logoColor=white)
+![Botpress](https://img.shields.io/badge/-Botpress-2C9AB7?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/-Zapier-FF6600?style=for-the-badge&logo=zapier&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/-Azure%20OpenAI-008AD7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 🧑‍💼 Professional Experience
+
+- **Senior BI Developer/Data Engineer** – Company Name _(Dates)_: Architected and maintained ETL/ELT pipelines using Snowflake, dbt, and Azure Data Factory; optimized queries and improved performance by X%.
+- **Previous Position – Company Name _(Dates)_**: Designed and deployed data visualizations in Power BI and Tableau; partnered with cross‑functional teams to deliver data solutions.
+
+---
 
 ## 🚀 Featured Projects
-- **T‑SQL ➔ Snowflake SQL Converter:** Python app converting SQL Server code to Snowflake.
-- **AI‑Powered BI Chatbot:** Rasa + LangChain chatbot integrated with SQL databases.
-- **Healthcare Analytics Dashboards:** Tableau and Power BI dashboards reducing reporting time by 40%.
 
-## 🏆 Awards & Certifications
-- M.S. Business Analytics – SMU Cox School of Business
-- (Add any relevant certifications or recognitions here)
+- **[T‑SQL → Snowflake SQL Converter](https://github.com/adamsalemsmu-svg/tsql-to-snow)** – Python app converting SQL Server code to Snowflake.
+- **AI‑Powered BI Chatbot** – Rasa + LangChain chatbot integrated with SQL databases.
+- **Healthcare Analytics Dashboards** – Tableau and Power BI dashboards reducing reporting time by 40%.
 
-## 💌 Connect with Me
+---
+
+## 🎓 Education & Certifications
+
+- **M.S. Business Analytics** – SMU Cox School of Business
+- _Add relevant certifications or awards here_
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adamsalemsmu-svg&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsalemsmu-svg&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adamsalemsmu-svg&theme=tokyonight)
+
+---
+
+## 📈 Metrics
+
+<!-- The metrics image is automatically generated by the GitHub Action in .github/workflows/metrics.yml -->
+![Metrics](/github-metrics.svg)
+
+---
+
+## 📫 Connect with Me
+
 - [LinkedIn](https://www.linkedin.com/in/adamsalemsmu)
 - [Email](mailto:adamsalemsmu@gmail.com)
