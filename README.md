@@ -77,5 +77,5 @@ Currently at **Lightbeam Health Solutions**, I transform clinical and operatio
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/adamsalemsmu)
+- [LinkedIn](https://www.linkedin.com/in/adamsalem2025/)
 - [Email](mailto:adamsalemsmu@gmail.com)
