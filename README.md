@@ -45,7 +45,7 @@ Currently at **Lightbeam Health Solutions**, I transform clinical and operatio
 
 - **[T‑SQL → Snowflake SQL Converter](https://github.com/adamsalemsmu-svg/tsql-to-snowflake)** – A Python app that converts SQL Server code into Snowflake‑compatible SQL, accelerating migration projects.
 - **AI‑Powered BI Chatbot** – A chatbot built with **Rasa** and **LangChain** that connects to SQL databases to answer business questions in natural language.
-- **Healthcare Analytics Dashboards** – Interactive Tableau and Power BI dashboards used by healthcare clients to track KPIs and reduce reporting turnaround time by **40%**.
+- **Marketing Analytics Dashboards** – Interactive Tableau and Power BI dashboards used by healthcare clients to track KPIs and reduce reporting turnaround time by **40%**.
 
 ---
 
